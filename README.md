@@ -1,5 +1,5 @@
-David Camilo García Echavarría
-1001131914
+Jose Andres Echavarria Rios 
+1152715557
 INTROD.INT.ART.CCIAS ING 
 CÓDIGO: 2508401. GRUPO: 01
 Fuente de datos usados: https://www.kaggle.com/code/manaminer/league-of-legends-visualizations-and-cleaning/data
